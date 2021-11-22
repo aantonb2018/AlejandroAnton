@@ -7,7 +7,11 @@
     "contact": "Contacto",
     "textAbout1": "Desde pequeño siempre me han maravillado los videojuegos. Actualmente puedo decir orgulloso que formo parte de esta gran industria gracias a mi perfil técnico enfocado a la programación y mi mente creativa.",
     "textAbout2": "Desarrollador de Videojuegos y Programador",
-    "textAbout3": "Gracias a mis estudios en el Grado de Diseño y Desarrollo de Videojuegos de la URJC soy capaz de trabajar en todas las áreas que conciernen al desarrollo de videojuegos, desde el diseño del juego en si mismo pasando por la creación de arte/assets y terminando con la implementación de las mecánicas y el desarrollo del juego como tal. Me veo a mi mismo como un programador, obviamente especializado en el desarrollo de videojuegos. Pero también quiero mejorar mis dotes con la escritura y el modelado 3D puesto que no solo es que me gusten estas disciplinas sino que las veo como una parte fundamental para la calidad de mis futuros proyectos tanto en el ámbito personal como profesional."
-
+    "textAbout3": "Gracias a mis estudios en el Grado de Diseño y Desarrollo de Videojuegos de la URJC soy capaz de trabajar en todas las áreas que conciernen al desarrollo de videojuegos, desde el diseño del juego en si mismo pasando por la creación de arte/assets y terminando con la implementación de las mecánicas y el desarrollo del juego como tal.",
+    "textAbout4": "Me veo a mi mismo como un programador, obviamente especializado en el desarrollo de videojuegos. Pero también quiero mejorar mis dotes con la escritura y el modelado 3D puesto que no solo es que me gusten estas disciplinas sino que las veo como una parte fundamental para la calidad de mis futuros proyectos tanto en el ámbito personal como profesional.",
+    "skills": "Lenguajes de programación",
+    "languagesP": "He trabajado con una gran variedad de lenguajes de programación con los que tengo un grado distinto de familiaridad reflejado en el siguiente gráfico:"
+    
+    
     
  }

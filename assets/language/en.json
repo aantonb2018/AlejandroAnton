@@ -10,5 +10,35 @@
    "textAbout3": "Thanks to my studies at the URJC's Game Design and Development Bachelor I can defend myself in all areas of game development, from the game design itself going through the art/assets creation and implementing the mechanics and developing the game as a whole.",
    "textAbout4": " I see myself as a programmer, obviously specialized in game development. But I also want to improve my writing and 3D modelling skills as I enjoy this disciplines and as I see them as fundamental parts for the quality of my future personal and professional projects.",
    "skills": "Programming languages",
-   "languagesP": "I have worked with a wide range of programming languages ​​with which I have a different degree of familiarity as it can be seen in the next chart:"
+   "languagesP": "I have worked with a wide range of programming languages ​​with which I have a different degree of familiarity as it can be seen in the next chart:",
+   "skills2": "Engines",
+   "engines": "My projects till the present day have been made in the next engines:",
+   "skills3": "3D Modeling Tools",
+   "tdtools": "I have used the following tools for my 3D modelling and animation projects:",
+   "skills4": "Languages",
+   "languages": "My proficiency in various languages is:",
+   "resumePage": "My educational and professional career:",
+   "pro": "Professional Experience",
+   "job0":[
+      "Searching for external internships",
+      "Currently",
+      "I'm now searching for external interships oriented to game development and programming"
+   ],
+   "job1":[
+      "Fuenlabrada's City Hall Intern",
+      "Currently",
+      "Fuenlabrada's City Hall",
+      "Intern of the Program for the Improvement of Computer Resources of the Educational System of the Fuenlabrada City Council", 
+      "Hardware and software upgrade of the La Cañada School's computer system",
+      "PCs with SO Windows y Linux",
+      "SmartTVs"
+   ],
+   "job2":[],
+   "study1":[
+      "Game Design and Development Bachelor in the Rey Juan Carlos University",
+      "2018 - Today",
+      "Rey Juan Carlos University, Madrid, Spain",
+      "Now in fourth grade, searching for internships and working on my Final Degree Project"
+   ]
+   
 }

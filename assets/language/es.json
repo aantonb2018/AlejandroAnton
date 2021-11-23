@@ -10,8 +10,35 @@
     "textAbout3": "Gracias a mis estudios en el Grado de Diseño y Desarrollo de Videojuegos de la URJC soy capaz de trabajar en todas las áreas que conciernen al desarrollo de videojuegos, desde el diseño del juego en si mismo pasando por la creación de arte/assets y terminando con la implementación de las mecánicas y el desarrollo del juego como tal.",
     "textAbout4": "Me veo a mi mismo como un programador, obviamente especializado en el desarrollo de videojuegos. Pero también quiero mejorar mis dotes con la escritura y el modelado 3D puesto que no solo es que me gusten estas disciplinas sino que las veo como una parte fundamental para la calidad de mis futuros proyectos tanto en el ámbito personal como profesional.",
     "skills": "Lenguajes de programación",
-    "languagesP": "He trabajado con una gran variedad de lenguajes de programación con los que tengo un grado distinto de familiaridad reflejado en el siguiente gráfico:"
-    
-    
+    "languagesP": "He trabajado con una gran variedad de lenguajes de programación con los que tengo un grado distinto de familiaridad reflejado en el siguiente gráfico:",
+    "skills2": "Engines",
+    "engines": "Mis proyectos hasta el día de hoy han sido realizados en los siguientes motores:",
+    "skills3": "Herramientas de Modelado 3D",
+    "tdtools": "He usado las siguientes herramientas en mis proyectos de modelado y animación 3D:",
+    "skills4": "Idiomas",
+    "languages": "Mi nivel de competencias en los siguientes idiomas es:",
+    "resumePage": "Mi trayectoria profesional y educativa:",
+    "pro": "Experiencia profesional",
+    "job0":[
+       "Buscando prácticas externas",
+       "Actualmente",
+       "Ahora mismo me encuentro buscando prácticas en empresa orientadas al desarrollo de videojuegos y la programación"
+    ],
+    "job1":[
+       "Becario del Ayuntamiento de Fuenlabrada",
+       "2021",
+       "Ayuntamiento de Fuenlabrada",
+       "Becario del Programa de Mejora de Recursos Informáticos del Sistema Educativo del Ayuntamiento de Fuenlabrada",
+       "Actualización del hardware y del software del sistema informático del CEIP La Cañada",
+       "PCs con SO Windows y Linux",
+       "SmartTVs"
+    ],
+    "job2":[],
+    "study1":[
+        "Grado en Diseño y Desarrollo de Videojuegos",
+        "2018 - Hoy",
+        "Universidad Rey Juan Carlos, Madrid, España",
+        "Cursando el cuarto curso, buscando prácticas en empresa y realizando el Trabajo de Fin de Grado"
+    ]
     
  }

@@ -27,18 +27,20 @@
    "job1":[
       "Fuenlabrada's City Hall Intern",
       "Currently",
-      "Fuenlabrada's City Hall",
+      "Fuenlabrada, Madrid, Spain",
       "Intern of the Program for the Improvement of Computer Resources of the Educational System of the Fuenlabrada City Council", 
       "Hardware and software upgrade of the La Cañada School's computer system",
       "PCs with SO Windows y Linux",
       "SmartTVs"
    ],
    "job2":[],
-   "study1":[
+   "stu": "Education",
+   "study0":[
       "Game Design and Development Bachelor in the Rey Juan Carlos University",
       "2018 - Today",
       "Rey Juan Carlos University, Madrid, Spain",
       "Now in fourth grade, searching for internships and working on my Final Degree Project"
-   ]
+   ],
+   "portfolioText": "Below are all my projects to date and the work I did in each of them:"
    
 }

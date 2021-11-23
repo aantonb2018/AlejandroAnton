@@ -27,18 +27,24 @@
     "job1":[
        "Becario del Ayuntamiento de Fuenlabrada",
        "2021",
-       "Ayuntamiento de Fuenlabrada",
+       "Fuenlabrada, Madrid, España",
        "Becario del Programa de Mejora de Recursos Informáticos del Sistema Educativo del Ayuntamiento de Fuenlabrada",
        "Actualización del hardware y del software del sistema informático del CEIP La Cañada",
        "PCs con SO Windows y Linux",
        "SmartTVs"
     ],
     "job2":[],
-    "study1":[
+    "stu": "Educación",
+    "study0":[
         "Grado en Diseño y Desarrollo de Videojuegos",
         "2018 - Hoy",
         "Universidad Rey Juan Carlos, Madrid, España",
         "Cursando el cuarto curso, buscando prácticas en empresa y realizando el Trabajo de Fin de Grado"
-    ]
+    ],
+    "portfolioText": "A continuación se muestran todos mis proyectos hasta la fecha y las labores que realicé en cada uno de ellos:",
+    "filter0": "Todos",
+    "filter1": "Programador",
+    "filter2": "Artista 3D",
+    "filter3": "Diseño"
     
  }

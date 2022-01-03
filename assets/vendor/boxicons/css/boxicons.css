@@ -703,6 +703,9 @@
   .bxl-invision:before {
     content: "\e93c";
   }
+  .bxl-itchio:before {
+    content: "\eef5";
+  }
   .bxl-javascript:before {
     content: "\e93d";
   }

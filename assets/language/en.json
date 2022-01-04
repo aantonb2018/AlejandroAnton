@@ -83,6 +83,12 @@
    "portraitEngine": " RPG Maker",
    "portraitLanguage": " Ruby",
    "portraitDate": " 18 December, 2018",
-   "portraitDesc": "A horror game where a painter will have to scape from his patron's mansion."
+   "portraitDesc": "A horror game where a painter will have to scape from his patron's mansion.",
+   "galacticCategory":" College Project",
+   "galacticRole": " Programmer, 2D Artist",
+   "galacticEngine": " Android Studio",
+   "galacticLanguage": " JAVA",
+   "galacticDate": " 30 November, 2021",
+   "galacticDesc": "A shoot-em up game where you must protect Earth from an alien invasion."
    
 }

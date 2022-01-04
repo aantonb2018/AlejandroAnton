@@ -5,7 +5,7 @@
     "portfolio": "Portfolio",
     "services": "Servicios",
     "contact": "Contacto",
-    "textAbout1": "Desde pequeño siempre me han maravillado los videojuegos. Actualmente puedo decir orgulloso que formo parte de esta gran industria gracias a mi perfil técnico enfocado a la programación y mi mente creativa.",
+    "textAbout1": "Entusiasta del mundo de los videojuegos, enfocado en el desarrollo y programación de estos y otros productos software.",
     "textAbout2": "Desarrollador de Videojuegos y Programador",
     "textAbout3": "Gracias a mis estudios en el Grado de Diseño y Desarrollo de Videojuegos de la URJC soy capaz de trabajar en todas las áreas que conciernen al desarrollo de videojuegos, desde el diseño del juego en si mismo pasando por la creación de arte/assets y terminando con la implementación de las mecánicas y el desarrollo del juego como tal.",
     "textAbout4": "Me veo a mi mismo como un programador, obviamente especializado en el desarrollo de videojuegos. Pero también quiero mejorar mis dotes con la escritura y el modelado 3D puesto que no solo es que me gusten estas disciplinas sino que las veo como una parte fundamental para la calidad de mis futuros proyectos tanto en el ámbito personal como profesional.",
@@ -83,6 +83,12 @@
     "portraitEngine": " RPG Maker",
     "portraitLanguage": " Ruby",
     "portraitDate": " 18 Diciembre, 2018",
-    "portraitDesc": "Un juego de terror donde un pintor deberá escapar de la mansión de su mecenas."
+    "portraitDesc": "Un juego de terror donde un pintor deberá escapar de la mansión de su mecenas.",
+    "galacticCategory":" Proyecto de Clase",
+    "galacticRole": " Programador, Artista 2D",
+    "galacticEngine": " Android Studio",
+    "galacticLanguage": " JAVA",
+    "galacticDate": " 30 Noviembre, 2021",
+    "galacticDesc": "Un juego shoot-em up donde proteger la Tierra de una invasión alienígena."
     
  }

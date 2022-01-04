@@ -1,6 +1,5 @@
 $(document).ready(function(){
-    console.log("Voy a escribir test");
-    $.getJSON('/docs/assets/language/es.json', function(data) { 
+    $.getJSON('./assets/language/es.json', function(data) { 
       $("<span>" + data.home + "</span>").appendTo("#homeMenu");
       $("<span>" + data.home + "</span>").appendTo("#homeText");
       $("<span>" + data.about + "</span>").appendTo("#aboutMenu");

@@ -4,8 +4,8 @@ $(document).ready(function(){
       $("<span>" + data.about + "</span>").appendTo("#aboutMenu");
       $("<span>" + data.resume + "</span>").appendTo("#resumeMenu");
       $("<span>" + data.portfolio + "</span>").appendTo("#portfolioMenu");
-      //$("<span>" + data.services + "</span>").appendTo("#servicesMenu");
       $("<span>" + data.contact + "</span>").appendTo("#contactMenu");
+      //$("<p>" + data.iAm + "<span class=\"typed\" data-typed-items=\"patata\"></span></p>").appendTo("#iAm");
       $("<h2>" + data.about + "</h2>").appendTo("#aboutPage");
       $("<p>" + data.textAbout1 + "</p>").appendTo("#aboutPage");
       $("<h3>" + data.textAbout2 + "</h3>").appendTo("#aboutPage2");

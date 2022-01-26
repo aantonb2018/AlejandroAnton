@@ -91,6 +91,11 @@
     "galacticEngine": " Android Studio",
     "galacticLanguage": " JAVA",
     "galacticDate": " 30 Noviembre, 2021",
-    "galacticDesc": "Un juego shoot-em up donde proteger la Tierra de una invasión alienígena."
-    
+    "galacticDesc": "Un juego shoot-em up donde proteger la Tierra de una invasión alienígena.",
+    "ramenCategory":" Proyecto de Clase",
+    "ramenRole": " Programador",
+    "ramenEngine": " Unity",
+    "ramenLanguage": " C#",
+    "ramenDate": " 30 Enero, 2022",
+    "ramenDesc": "Un juego de aprendizaje de hiragana donde llevas un puesto de fideos."  
  }

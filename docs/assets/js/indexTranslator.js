@@ -25,6 +25,7 @@ $(document).ready(function(){
       $("<h4>" + data.job0[0] + "</h4>").appendTo("#proItem0");
       $("<h5>" + data.job0[1] + "</h5>").appendTo("#proItem0");
       $("<p><em>" + data.job0[2] + "</em></p>").appendTo("#proItem0");
+      $("<ul><li>" + data.job0[3] + "</li></ul>").appendTo("#proItem0");
       $("<h4>" + data.job1[0] + "</h4>").appendTo("#proItem1");
       $("<h5>" + data.job1[1] + "</h5>").appendTo("#proItem1");
       $("<p><em>" + data.job1[2] + "</em></p>").appendTo("#proItem1");

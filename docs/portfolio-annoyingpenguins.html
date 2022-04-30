@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/favicon2.png" rel="icon">
+  <link href="assets/img/apple-touch-icon2.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -34,7 +34,12 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
-  <script src="./assets/js/penguinTranslator.js"></script>
+  <!--<script src="./assets/js/indexTranslator.js"></script>-->
+  <script src="./assets/js/tinyi18n.js">
+  </script>
+  <script>
+    tinyi18n.loadTranslations('./assets/json/translation.json');
+  </script>
 </head>
 
 <body>
@@ -49,6 +54,10 @@
       <div class="profile">
         <img src="assets/img/profile-alex-two-alternative.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Alejandro Antón</a></h1>
+        <div id="languageSelec" class="social-links mt-3 text-center">
+          <input onclick="tinyi18n.setLang('es')" type="image" src="assets/img/spainIcon.png"/>
+          <input onclick="tinyi18n.setLang('en')" type="image" src="assets/img/united-kingdomIcon.png"/>
+        </div>
         <div class="social-links mt-3 text-center">
           <a href="mailto:alexantber@gmail.com" class="mail"><i class="bx bx-envelope"></i></a>
           <a href="https://github.com/aantonb2018" class="github"><i class="bx bxl-github"></i></a>
@@ -59,11 +68,11 @@
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li><a id="homeMenu" href="index.html#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> </a></li>
-          <li><a id="aboutMenu" href="index.html#about" class="nav-link scrollto"><i class="bx bx-user"></i> </a></li>
-          <li><a id="resumeMenu" href="index.html#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> </a></li>
-          <li><a id="portfolioMenu" href="index.html#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> </a></li>
-          <li><a id="contactMenu" href="index.html#contact" class="nav-link scrollto"><i class="bx bx-message-detail"></i> </a></li>
+          <li><a id="homeMenu" href="index.html#hero" class="nav-link scrollto active"><i class="bx bx-home"></i><span data-translatekey="home"></span></a></li>
+          <li><a id="aboutMenu" href="index.html#about" class="nav-link scrollto"><i class="bx bx-user"></i><span data-translatekey="about"></span></a></li>
+          <li><a id="resumeMenu" href="index.html#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i><span data-translatekey="resume"></span></a></li>
+          <li><a id="portfolioMenu" href="index.html#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i><span data-translatekey="portfolio"></span></a></li>
+          <li><a id="contactMenu" href="index.html#contact" class="nav-link scrollto"><i class="bx bx-message-detail"></i><span data-translatekey="contact"></span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
@@ -78,7 +87,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>ANNOYING PENGUINS</h2>
           <ol>
-            <li><a id="homeText" href="index.html"></a></li>
+            <li><a data-translatekey="home" id="homeText" href="index.html"></a></li>
             <li>Annoying Penguins</li>
           </ol>
         </div>
@@ -115,19 +124,18 @@
 
           <div class="col-lg-4">
             <div id="projInfo" class="portfolio-info">
-              <!--
-              <h3>Project Information</h3>
+              <h3 data-translatekey="projectInfo"></h3>
               <ul>
-                <li><strong>Category:</strong> Game Jam (7 days)</li>
-                <li><strong>Role:</strong> 3D Artist</li>
-                <li><strong>Engine:</strong> Unity</li>
-                <li><strong>Programming language:</strong> C#</li>
-                <li><strong>Project date:</strong> 01 March, 2020</li>
-                <li><strong>Project URL:</strong> <a href="https://sirallanberg.itch.io/annoying-penguins" target="_blank">Annoying Penguins</a></li>
+                <li><strong data-translatekey="projCategory"></strong><span data-translatekey="penguinCategory"></span></li>
+                <li><strong data-translatekey="projRole"></strong><span data-translatekey="penguinRole"></span></li>
+                <li><strong data-translatekey="projEngine"></strong><span data-translatekey="penguinEngine"></span></li>
+                <li><strong data-translatekey="projLanguage"></strong><span data-translatekey="penguinLanguage"></span></li>
+                <li><strong data-translatekey="projDate"></strong><span data-translatekey="penguinDate"></span></li>
+                <li><strong data-translatekey="projUrl"></strong><a href="https://sirallanberg.itch.io/annoying-penguins" target="_blank"> Annoying Penguins</a></li>
               </ul>
-              -->
             </div>
             <div id="projDesc" class="portfolio-description">
+              <p data-translatekey="penguinDesc"></p>
               <!--<h2>This is an example of portfolio detail</h2>-->
             </div>
           </div>

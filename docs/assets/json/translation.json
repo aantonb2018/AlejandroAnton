@@ -1,0 +1,383 @@
+{
+   "default_language": "es",
+   "languages": [
+      "en",
+      "es",
+      "jp"
+   ],
+   "translations": {
+      "home": {
+         "es": "Inicio",
+         "en": "Home",
+         "jp": ""
+      },
+      "about": {
+         "es": "Sobre mí",
+         "en": "About"
+      },
+      "resume": {
+         "es": "Trayectoria",
+         "en": "Resume"
+      },
+      "portfolio": {
+         "es": "Portfolio",
+         "en": "Portfolio"
+      },
+      "services": {
+         "es": "Servicios",
+         "en": "Services"
+      },
+      "contact": {
+         "es": "Contacto",
+         "en": "Contact"
+      },
+      "iAm": {
+         "es": "Soy",
+         "en": "I am"
+      },
+      "theseThings": {
+         "es": "un Programador, un Diseñador de Juegos, un Guionista, un Artista 3D, un Animador",
+         "en": "a Programmer, a Game Designer, a Scriptwriter, a 3D Artist, an Animator"
+      },
+      "textAbout1": {
+         "es": "Entusiasta del mundo de los videojuegos, enfocado en el diseño, desarrollo y programación de estos y otros productos software.",
+         "en": "Videogame enthusiast, focused on the design, development and coding of videogames and other software products."
+      },
+      "textAbout2": {
+         "es": "Desarrollador de Videojuegos y Programador",
+         "en": "Game Developer and Programmer"
+      },
+      "textAbout3": {
+         "es": "Gracias a mis estudios en el Grado de Diseño y Desarrollo de Videojuegos de la URJC soy capaz de trabajar en todas las áreas que conciernen al desarrollo de videojuegos, desde el diseño del juego en si mismo pasando por la creación de arte/assets y terminando con la implementación de las mecánicas y el desarrollo del juego como tal.",
+         "en": "Thanks to my studies at the URJC's Game Design and Development Bachelor I can defend myself in all areas of game development, from the game design itself going through the art/assets creation and implementing the mechanics and developing the game as a whole."
+      },
+      "textAbout4": {
+         "es": "Me veo tanto como diseñador como programador, obviamente especializado en el desarrollo de videojuegos. Disfruto mucho conceptualizando videojuegos, creando mundos e historias que se entrelacen con las mecánicas y dinámicas jugables. Siempre intentado conseguir implementar la mejor ludonarrativa posible.",
+         "en": "I see myself as both a game designer and a programmer, specialized in game development of course. I enjoy working in videogame concepts, creating worlds and stories that intertwine with the gameplay as a whole. Always trying to get the best ludonarrativa possible."
+      },
+      "skills": {
+         "es": "Lenguajes de programación",
+         "en": "Programming languages"
+      },
+      "languagesP": {
+         "es": "He trabajado con una gran variedad de lenguajes de programación teniendo más destreza con los siguientes:",
+         "en": "I have worked with a wide range of programming languages like the next ones below:"
+      },
+      "skills2": {
+         "es": "Motores de Desarrollo",
+         "en": "Development Engines"
+      },
+      "engines": {
+         "es": "Mis proyectos hasta el día de hoy han sido realizados en los siguientes motores:",
+         "en": "My projects till the present day have been made in the next engines:"
+      },
+      "skills3": {
+         "es": "Herramientas de Modelado 3D",
+         "en": "3D Modeling Tools"
+      },
+      "tdtools": {
+         "es": "He usado las siguientes herramientas en mis proyectos de modelado y animación 3D:",
+         "en": "I have used the following tools for my 3D modelling and animation projects:"
+      },
+      "skills4": {
+         "es": "Idiomas",
+         "en": "Languages"
+      },
+      "languageSkills": {
+         "es": "Mi nivel de competencias en los siguientes idiomas es:",
+         "en": "My proficiency in various languages is:"
+      },
+      "resumePage": {
+         "es": "Mi trayectoria profesional y educativa:",
+         "en": "My educational and professional career:"
+      },
+      "pro": {
+         "es": "Experiencia profesional",
+         "en": "Professional Experience"
+      },
+      "job0_title": {
+         "es": "Becario en Didactoons Games SL",
+         "en": "Didactoons Games SL Intern"
+      },
+      "job0_date": {
+         "es": "2022",
+         "en": "2022"
+      },
+      "job0_location": {
+         "es": "Alcalá de Henares, Madrid, España",
+         "en": "Alcala de Henares, Madrid, Spain"
+      },
+      "job0_work0": {
+         "es": "Diseño y programación en el juego ExcavAge para la plataforma Legends of Learning",
+         "en": "Design and coding of the game ExcavAge for the Legends of Learning platform"
+      },
+      "job1_title": {
+         "es": "Becario del Ayuntamiento de Fuenlabrada",
+         "en": "Fuenlabrada's City Hall Intern"
+      },
+      "job1_date": {
+         "es": "2021",
+         "en": "2021"
+      },
+      "job1_location": {
+         "es": "Fuenlabrada, Madrid, España",
+         "en": "Fuenlabrada, Madrid, Spain"
+      },
+      "job1_work0": {
+         "es": "Becario del Programa de Mejora de Recursos Informáticos del Sistema Educativo del Ayuntamiento de Fuenlabrada",
+         "en": "Intern of the Program for the Improvement of Computer Resources of the Educational System of the Fuenlabrada City Council"
+      },
+      "job1_work1": {
+         "es": "Actualización del hardware y del software del sistema informático del CEIP La Cañada",
+         "en": "Hardware and software upgrade of the La Cañada School's computer system"
+      },
+      "job1_work2": {
+         "es": "PCs con SO Windows y Linux",
+         "en": "PCs with SO Windows y Linux"
+      },
+      "job1_work3": {
+         "es": "SmartTVs",
+         "en": "SmartTVs"
+      },
+      "stu": {
+         "es": "Educación",
+         "en": "Education"
+      }, 
+      "study0_title": {
+         "es": "Grado en Diseño y Desarrollo de Videojuegos",
+         "en": "Game Design and Development Bachelor"
+      },
+      "study0_date": {
+         "es": "2018 - Hoy",
+         "en": "2018 - Today"
+      },
+      "study0_location": {
+         "es": "Universidad Rey Juan Carlos, Madrid, España",
+         "en": "Rey Juan Carlos University, Madrid, Spain"
+      },
+      "study0_work0": {
+         "es": "Cursando el cuarto curso, realizando prácticas en empresa y el Trabajo de Fin de Grado",
+         "en": "Now in fourth grade, in an internship and working on my Final Degree Project"
+      },
+      "portfolioText": {
+         "es": "A continuación se muestran todos mis proyectos hasta la fecha y las labores que realicé en cada uno de ellos:",
+         "en": "Below are all my projects to date and the work I did in each of them:"
+      },
+      "filter0": {
+         "es": "Todos",
+         "en": "All"
+      },
+      "filter1": {
+         "es": "Programador",
+         "en": "Programmer"
+      },
+      "filter2": {
+         "es": "Artista 2D/3D",
+         "en": "2D/3D Artist"
+      },
+      "filter3": {
+         "es": "Diseño y Narrativa",
+         "en": "Design and Narrative"
+      },
+      "textContact": {
+         "es": "A continuación se muestran diversas plataformas y redes sociales a través de las cuales poder contactarme y ver más sobre mí y mis proyectos:",
+         "en": "Below are various platforms and social networks through which you can contact me and see more about me and my projects:"
+      },
+      "projectInfo": {
+         "es": "Información del Proyecto",
+         "en": "Project Information"
+      },
+      "projCategory": {
+         "es": "Categoría:",
+         "en": "Category:"
+      },
+      "projRole": {
+         "es": "Rol:",
+         "en": "Role:"
+      },
+      "projEngine": {
+         "es": "Motor:",
+         "en": "Engine:"
+      },
+      "projLanguage": {
+         "es": "Lenguaje de Programación:",
+         "en": "Programming language:"
+      },
+      "projDate": {
+         "es": "Fecha del proyecto:",
+         "en": "Project date:"
+      },
+      "projUrl": {
+         "es": "URL del proyecto:",
+         "en": "Project URL:"
+      },
+      "penguinCategory": {
+         "es": " Game Jam (7 días)",
+         "en": " Game Jam (7 days)"
+      },
+      "penguinRole": {
+         "es": " Artista 3D",
+         "en": " 3D Artist"
+      },
+      "penguinEngine": {
+         "es": " Unity",
+         "en": " Unity"
+      },
+      "penguinLanguage": {
+         "es": " C#",
+         "en": " C#"
+      },
+      "penguinDate": {
+         "es": " 01 Marzo 2020",
+         "en": " 01 March 2020"
+      },
+      "penguinDesc": {
+         "es": "Un juego competitivo entre dos pingüinos que se baten en duelo para ver quien consigue enfadar a más focas.",
+         "en": "A competitive game where two penguins have a duel to see who can infuriate more seals."
+      },
+      "dumbgeonCategory": {
+         "es": " Proyecto de Clase",
+         "en": " College Project"
+      },
+      "dumbgeonRole": {
+         "es": " Guionista, Diseñador, Programador y Artista 2D",
+         "en": " Game Designer, Programmer, Screenwriter and 2D Artist"
+      },
+      "dumbgeonEngine": {
+         "es": " Unity",
+         "en": " Unity"
+      },
+      "dumbgeonLanguage": {
+         "es": " C#",
+         "en": " C#"
+      },
+      "dumbgeonDate": {
+         "es": " 20 Diciembre 2021",
+         "en": " 20 December 2021"
+      },
+      "dumbgeonDesc": {
+         "es": "Un desternillante juego de acción tipo roguelike en el que equiparse con cartas y explorar mazmorras generadas procedimentalmente.",
+         "en": "A hilarious roguelike action game where you equip yourself with cards and explore procedural generated dungeons."
+      },
+      "unfamousCategory": {
+         "es": " Game Jam (3 días)",
+         "en": " Game Jam (3 days)"
+      },
+      "unfamousRole": {
+         "es": " Programador",
+         "en": " Programmer"
+      },
+      "unfamousEngine": {
+         "es": " Unity",
+         "en": " Unity"
+      },
+      "unfamousLanguage": {
+         "es": " C#",
+         "en": " C#"
+      },
+      "unfamousDate": {
+         "es": " 29 Junio 2021",
+         "en": " 29 June 2021"
+      },
+      "unfamousDesc": {
+         "es": "Un juego rítmico a través de varias citas que cada vez dan más vergüenza ajena.",
+         "en": "A rhythmic game across several dates that are more cringy than the previous one."
+      },
+      "quizCategory": {
+         "es": " Proyecto de Clase",
+         "en": " College Project"
+      },
+      "quizRole": {
+         "es": " Programador",
+         "en": " Programmer"
+      },
+      "quizEngine": {
+         "es": " Android Studio",
+         "en": " Android Studio"
+      },
+      "quizLanguage": {
+         "es": " JAVA",
+         "en": " JAVA"
+      },
+      "quizDate": {
+         "es": " 02 Noviembre 2021",
+         "en": " 02 November 2021"
+      },
+      "quizDesc": {
+         "es": "Un juego de tipo trivial con preguntas del mundo del manga y anime.",
+         "en": "An anime and manga based trivia game."
+      },
+      "portraitCategory": {
+         "es": " Proyecto de Clase",
+         "en": " College Project"
+      },
+      "portraitRole": {
+         "es": " Guionista",
+         "en": " Screenwriter"
+      },
+      "portraitEngine": {
+         "es": " RPG Maker",
+         "en": " RPG Maker"
+      },
+      "portraitLanguage": {
+         "es": " Ruby",
+         "en": " Ruby"
+      },
+      "portraitDate": {
+         "es": " 18 Diciembre 2018",
+         "en": " 18 December 2018"
+      },
+      "portraitDesc": {
+         "es": "Un juego de terror donde un pintor deberá escapar de la mansión de su mecenas.",
+         "en": "A horror game where a painter will have to scape from his patron's mansion."
+      },
+      "galacticCategory": {
+         "es": " Proyecto de Clase",
+         "en": " College Project"
+      },
+      "galacticRole": {
+         "es": " Programador y Artista 2D",
+         "en": " Programmer and 2D Artist"
+      },
+      "galacticEngine": {
+         "es": " Android Studio",
+         "en": " Android Studio"
+      },
+      "galacticLanguage": {
+         "es": " JAVA",
+         "en": " JAVA"
+      },
+      "galacticDate": {
+         "es": " 30 Noviembre 2021",
+         "en": " 30 November 2021"
+      },
+      "galacticDesc": {
+         "es": "Un juego shoot-em up donde proteger la Tierra de una invasión alienígena.",
+         "en": "A shoot-em up game where you must protect Earth from an alien invasion."
+      },
+      "ramenCategory": {
+         "es": " Proyecto de Clase",
+         "en": " College Project"
+      },
+      "ramenRole": {
+         "es": " Diseñador y Programador",
+         "en": " Game Designer and Programmer"
+      },
+      "ramenEngine": {
+         "es": " Unity",
+         "en": " Unity"
+      },
+      "ramenLanguage": {
+         "es": " C#",
+         "en": " C#"
+      },
+      "ramenDate": {
+         "es": " 30 Enero 2022",
+         "en": " 30 January 2022"
+      },
+      "ramenDesc": {
+         "es": "Un juego de aprendizaje de hiragana donde llevas un puesto de fideos.",
+         "en": "A hiragana learning game where you are in charge of a noodle stall."
+      }
+   }
+}

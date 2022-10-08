@@ -378,6 +378,30 @@
       "ramenDesc": {
          "es": "Un juego de aprendizaje de hiragana donde llevas un puesto de fideos.",
          "en": "A hiragana learning game where you are in charge of a noodle stall."
+      },
+      "excavageCategory": {
+         "es": " Proyecto para la plataforma Legends of Learning",
+         "en": " Project for Legends of Learning's platform"
+      },
+      "excavageRole": {
+         "es": " Diseñador y Programador",
+         "en": " Game Designer and Programmer"
+      },
+      "excavageEngine": {
+         "es": " Unity",
+         "en": " Unity"
+      },
+      "excavageLanguage": {
+         "es": " C#",
+         "en": " C#"
+      },
+      "excavageDate": {
+         "es": " 4 Octubre 2022",
+         "en": " 4 October 2022"
+      },
+      "excavageDesc": {
+         "es": "Un juego para aprender sobre las eras de la Tierra mientras excavas buscado fósiles y rocas.",
+         "en": "A game to learn about Earth's ages while you are digging in search for fossils and rocks."
       }
    }
 }

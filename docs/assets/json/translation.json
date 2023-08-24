@@ -402,6 +402,30 @@
       "excavageDesc": {
          "es": "Un juego para aprender sobre las eras de la Tierra mientras excavas buscado fósiles y rocas.",
          "en": "A game to learn about Earth's ages while you are digging in search for fossils and rocks."
+      },
+      "pixelFilterCategory": {
+         "es": " Proyecto de Trabajo de Fin de Grado",
+         "en": " Final Degree Project"
+      },
+      "pixelFilterRole": {
+         "es": " Diseñador y Programador",
+         "en": " Designer and Programmer"
+      },
+      "pixelFilterEngine": {
+         "es": " Unity",
+         "en": " Unity"
+      },
+      "pixelFilterLanguage": {
+         "es": " C# y HLSL",
+         "en": " C# and HLSL"
+      },
+      "pixelFilterDate": {
+         "es": " 24 Junio 2023",
+         "en": " 24 June 2023"
+      },
+      "pixelFilterDesc": {
+         "es": "Una herramienta para la pixelación de cualquier elemento de una escena de Unity de manera sencilla y personalizable.",
+         "en": "A Unity tool for pixelating any element inside a scene in a simple and customizable way."
       }
    }
 }

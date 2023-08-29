@@ -36,8 +36,8 @@
          "en": "I am"
       },
       "theseThings": {
-         "es": "un Programador, un Diseñador de Juegos, un Guionista, un Artista 3D, un Animador",
-         "en": "a Programmer, a Game Designer, a Scriptwriter, a 3D Artist, an Animator"
+         "es": "un Programador, un Game Designer, un Escritor",
+         "en": "a Programmer, a Game Designer, a Writer"
       },
       "textAbout1": {
          "es": "Entusiasta del mundo de los videojuegos, enfocado en el diseño, desarrollo y programación de estos y otros productos software.",
@@ -52,8 +52,12 @@
          "en": "Thanks to my studies at the URJC's Game Design and Development Bachelor I can defend myself in all areas of game development, from the game design itself going through the art/assets creation and implementing the mechanics and developing the game as a whole."
       },
       "textAbout4": {
-         "es": "Me veo tanto como diseñador como programador, obviamente especializado en el desarrollo de videojuegos. Disfruto mucho conceptualizando videojuegos, creando mundos e historias que se entrelacen con las mecánicas y dinámicas jugables. Siempre intentado conseguir implementar la mejor ludonarrativa posible.",
-         "en": "I see myself as both a game designer and a programmer, specialized in game development of course. I enjoy working in videogame concepts, creating worlds and stories that intertwine with the gameplay as a whole. Always trying to get the best ludonarrativa possible."
+         "es": "Destacaría principalmente mis capacidades como Game Designer, ya sea a nivel de mecánicas, dinámicas o de niveles, y como programador. Es en cualquiera de estas dos áreas donde me gustaría poder trabajar y mejorar, ayudando a crear experiencias de juego nuevas y enriquecedoras para cualquier tipo de jugadores.",
+         "en": "I would remark my abilities as a Game Designer, no matter if it is about mechanics, dynamics or level design, as well as a programmer. I would want to work and develop myself in any of these two fields, helping to create new and enriching gaming experiences for any kind of player."
+      },
+      "textAbout5": {
+         "es": "Me gusta trabajar en equipo, aprender de los demás y, con suerte, poder enseñarles algo de vuelta. Se me da bien trabajar bajo presión, aunque prefiero mantener mis desarrollos con un amplio margen de maniobra. Y sobretodo disfruto de la experiencia creativa de diseñar y desarrollar videojuegos.",
+         "en": "I enjoy team working, learning from others and, luckily, being able to teach something in return. I deal fairly well with pressure, although I prefer to keep my projects with enough room for manoeuvre. And above all, I enjoy the creative experience of designing and developing videogames."
       },
       "skills": {
          "es": "Lenguajes de programación",
@@ -148,16 +152,16 @@
          "en": "Game Design and Development Bachelor"
       },
       "study0_date": {
-         "es": "2018 - Hoy",
-         "en": "2018 - Today"
+         "es": "2018 - 2023",
+         "en": "2018 - 2023"
       },
       "study0_location": {
          "es": "Universidad Rey Juan Carlos, Madrid, España",
          "en": "Rey Juan Carlos University, Madrid, Spain"
       },
       "study0_work0": {
-         "es": "Cursando el cuarto curso, realizando prácticas en empresa y el Trabajo de Fin de Grado",
-         "en": "Now in fourth grade, in an internship and working on my Final Degree Project"
+         "es": "Actualmente he terminado con mis estudios y me encuentro a la espera de recibir mi título",
+         "en": "I have finished my studies and I am currently waiting to receive my college title"
       },
       "portfolioText": {
          "es": "A continuación se muestran todos mis proyectos hasta la fecha y las labores que realicé en cada uno de ellos:",

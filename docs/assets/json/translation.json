@@ -100,48 +100,56 @@
          "en": "Professional Experience"
       },
       "job0_title": {
-         "es": "Becario en Didactoons Games SL",
-         "en": "Didactoons Games SL Intern"
+         "es": "Obra y Servicio para Legends of Learning",
+         "en": "Direct Contract with Legends of Learning"
       },
       "job0_date": {
+         "es": "2023",
+         "en": "2023"
+      },
+      "job0_location": {
+         "es": "Washington, Estados Unidos (Remoto)",
+         "en": "Washington, United States of America (Remote)"
+      },
+      "job0_work0": {
+         "es": "Diseño y programación del juego Super Molecule Mixer para la plataforma Legends of Learning",
+         "en": "Design and coding of the game Super Molecule Mixer for the Legends of Learning platform"
+      },
+      "job1_title": {
+         "es": "Prácticas en Didactoons Games SL",
+         "en": "Didactoons Games SL Intern"
+      },
+      "job1_date": {
          "es": "2022",
          "en": "2022"
       },
-      "job0_location": {
+      "job1_location": {
          "es": "Alcalá de Henares, Madrid, España",
          "en": "Alcala de Henares, Madrid, Spain"
       },
-      "job0_work0": {
-         "es": "Diseño y programación en el juego ExcavAge para la plataforma Legends of Learning",
+      "job1_work0": {
+         "es": "Diseño y programación del juego ExcavAge para la plataforma Legends of Learning",
          "en": "Design and coding of the game ExcavAge for the Legends of Learning platform"
       },
-      "job1_title": {
+      "job2_title": {
          "es": "Becario del Ayuntamiento de Fuenlabrada",
          "en": "Fuenlabrada's City Hall Intern"
       },
-      "job1_date": {
+      "job2_date": {
          "es": "2021",
          "en": "2021"
       },
-      "job1_location": {
+      "job2_location": {
          "es": "Fuenlabrada, Madrid, España",
          "en": "Fuenlabrada, Madrid, Spain"
       },
-      "job1_work0": {
+      "job2_work0": {
          "es": "Becario del Programa de Mejora de Recursos Informáticos del Sistema Educativo del Ayuntamiento de Fuenlabrada",
          "en": "Intern of the Program for the Improvement of Computer Resources of the Educational System of the Fuenlabrada City Council"
       },
-      "job1_work1": {
+      "job2_work1": {
          "es": "Actualización del hardware y del software del sistema informático del CEIP La Cañada",
          "en": "Hardware and software upgrade of the La Cañada School's computer system"
-      },
-      "job1_work2": {
-         "es": "PCs con SO Windows y Linux",
-         "en": "PCs with SO Windows y Linux"
-      },
-      "job1_work3": {
-         "es": "SmartTVs",
-         "en": "SmartTVs"
       },
       "stu": {
          "es": "Educación",
@@ -430,6 +438,30 @@
       "pixelFilterDesc": {
          "es": "Una herramienta para la pixelación de cualquier elemento de una escena de Unity de manera sencilla y personalizable.",
          "en": "A Unity tool for pixelating any element inside a scene in a simple and customizable way."
+      },
+      "moleculemixerCategory": {
+         "es": " Proyecto para la plataforma Legends of Learning",
+         "en": " Project for Legends of Learning's platform"
+      },
+      "moleculemixerRole": {
+         "es": " Guionista, Diseñador, Programador y Artista 2D",
+         "en": " Game Designer, Programmer, Screenwriter and 2D Artist"
+      },
+      "moleculemixerEngine": {
+         "es": " Unity",
+         "en": " Unity"
+      },
+      "moleculemixerLanguage": {
+         "es": " C#",
+         "en": " C#"
+      },
+      "moleculemixerDate": {
+         "es": " 27 Diciembre 2023",
+         "en": " 27 December 2023"
+      },
+      "moleculemixerDesc": {
+         "es": "Un juego para aprender sobre los misterios de la materia, los compuestos y las moléculas de mano del Profesor Mole.",
+         "en": "A game to learn about the mysteries of matter, compounds and molecules thanks to the aid of Professor Mole."
       }
    }
 }

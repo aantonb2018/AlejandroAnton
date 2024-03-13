@@ -100,54 +100,70 @@
          "en": "Professional Experience"
       },
       "job0_title": {
+         "es": "Colaboración como programador con Jaguar Games",
+         "en": "Collaboration with Jaguar Games as a programmer"
+      },
+      "job0_date": {
+         "es": "2024",
+         "en": "2024"
+      },
+      "job0_location": {
+         "es": "Ciudad de México, México (Remoto)",
+         "en": "Mexico City, Mexico (Remote)"
+      },
+      "job0_work0": {
+         "es": "Implementación de las mecánicas y sistemas del videojuego Dream of Darkness",
+         "en": "Coding of the mechanics and systems of the Dream of Darkness videogame"
+      },
+      "job1_title": {
          "es": "Obra y Servicio para Legends of Learning",
          "en": "Direct Contract with Legends of Learning"
       },
-      "job0_date": {
+      "job1_date": {
          "es": "2023",
          "en": "2023"
       },
-      "job0_location": {
+      "job1_location": {
          "es": "Washington, Estados Unidos (Remoto)",
          "en": "Washington, United States of America (Remote)"
       },
-      "job0_work0": {
+      "job1_work0": {
          "es": "Diseño y programación del juego Super Molecule Mixer para la plataforma Legends of Learning",
          "en": "Design and coding of the game Super Molecule Mixer for the Legends of Learning platform"
       },
-      "job1_title": {
+      "job2_title": {
          "es": "Prácticas en Didactoons Games SL",
          "en": "Didactoons Games SL Intern"
       },
-      "job1_date": {
+      "job2_date": {
          "es": "2022",
          "en": "2022"
       },
-      "job1_location": {
+      "job2_location": {
          "es": "Alcalá de Henares, Madrid, España",
          "en": "Alcala de Henares, Madrid, Spain"
       },
-      "job1_work0": {
+      "job2_work0": {
          "es": "Diseño y programación del juego ExcavAge para la plataforma Legends of Learning",
          "en": "Design and coding of the game ExcavAge for the Legends of Learning platform"
       },
-      "job2_title": {
+      "job3_title": {
          "es": "Becario del Ayuntamiento de Fuenlabrada",
          "en": "Fuenlabrada's City Hall Intern"
       },
-      "job2_date": {
+      "job3_date": {
          "es": "2021",
          "en": "2021"
       },
-      "job2_location": {
+      "job3_location": {
          "es": "Fuenlabrada, Madrid, España",
          "en": "Fuenlabrada, Madrid, Spain"
       },
-      "job2_work0": {
+      "job3_work0": {
          "es": "Becario del Programa de Mejora de Recursos Informáticos del Sistema Educativo del Ayuntamiento de Fuenlabrada",
          "en": "Intern of the Program for the Improvement of Computer Resources of the Educational System of the Fuenlabrada City Council"
       },
-      "job2_work1": {
+      "job3_work1": {
          "es": "Actualización del hardware y del software del sistema informático del CEIP La Cañada",
          "en": "Hardware and software upgrade of the La Cañada School's computer system"
       },

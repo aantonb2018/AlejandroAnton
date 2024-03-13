@@ -444,8 +444,8 @@
          "en": " Project for Legends of Learning's platform"
       },
       "moleculemixerRole": {
-         "es": " Guionista, Diseñador, Programador y Artista 2D",
-         "en": " Game Designer, Programmer, Screenwriter and 2D Artist"
+         "es": " Guionista, Diseñador y Programador",
+         "en": " Game Designer, Programmer and Screenwriter"
       },
       "moleculemixerEngine": {
          "es": " Unity",
@@ -462,6 +462,30 @@
       "moleculemixerDesc": {
          "es": "Un juego para aprender sobre los misterios de la materia, los compuestos y las moléculas de mano del Profesor Mole.",
          "en": "A game to learn about the mysteries of matter, compounds and molecules thanks to the aid of Professor Mole."
+      },
+      "dodCategory": {
+         "es": " Proyecto colaborativo con Jaguar Games",
+         "en": " Collaborative work with Jaguar Games"
+      },
+      "dodRole": {
+         "es": " Programador",
+         "en": " Programmer"
+      },
+      "dodEngine": {
+         "es": " Unity",
+         "en": " Unity"
+      },
+      "dodLanguage": {
+         "es": " C#",
+         "en": " C#"
+      },
+      "dodDate": {
+         "es": " En desarrollo",
+         "en": " In development"
+      },
+      "dodDesc": {
+         "es": "Un juego de terror cósmico y ficción histórica basado en personajes Náhuatl durante la Conquista de América.",
+         "en": "A cosmic horror and historical fiction game based in Nahuatl characters during the Spanish Conquest of America."
       }
    }
 }

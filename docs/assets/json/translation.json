@@ -100,70 +100,110 @@
          "en": "Professional Experience"
       },
       "job0_title": {
+         "es": "Jr. Level Designer en Lingokids",
+         "en": "Jr. Level Designer at Lingokids"
+      },
+      "job0_date": {
+         "es": "2025 - Hoy",
+         "en": "2025 - Today"
+      },
+      "job0_location": {
+         "es": "Las Rozas, Madrid, España",
+         "en": "Las Rozas, Madrid, Spain"
+      },
+      "job0_work0": {
+         "es": "Diseño e implementación de juegos enfocados a niños que fomentan el aprendizaje",
+         "en": "Design & implementation for games targeted to kids to help with their learning"
+      },
+      "job0_work1": {
+         "es": "Colaboración y adaptación de propiedas intelectuales de terceros",
+         "en": "Collaboration and adaptation of external intelectual properties"
+      },
+      "job1_title": {
+         "es": "Intern Level Designer en Lingokids",
+         "en": "Intern Level Designer at Lingokids"
+      },
+      "job1_date": {
+         "es": "2024 - 2025",
+         "en": "2024 - 2025"
+      },
+      "job1_location": {
+         "es": "Madrid, España (Híbrido)",
+         "en": "Madrid, Spain (Hybrid)"
+      },
+      "job1_work0": {
+         "es": "Diseño e implementación de juegos enfocados a niños que fomentan el aprendizaje",
+         "en": "Design & implementation for games targeted to kids to help with their learning"
+      },
+      "job1_work1": {
+         "es": "Colaboración y adaptación de propiedas intelectuales de terceros como Blippi y Pocoyo",
+         "en": "Collaboration and adaptation of external intelectual properties such as Blippi and Pocoyo"
+      },
+      "job2_title": {
          "es": "Colaboración como programador con Jaguar Games",
          "en": "Collaboration with Jaguar Games as a programmer"
       },
-      "job0_date": {
+      "job2_date": {
          "es": "2024",
          "en": "2024"
       },
-      "job0_location": {
+      "job2_location": {
          "es": "Ciudad de México, México (Remoto)",
          "en": "Mexico City, Mexico (Remote)"
       },
-      "job0_work0": {
+      "job2_work0": {
          "es": "Implementación de las mecánicas y sistemas del videojuego Dream of Darkness",
          "en": "Coding of the mechanics and systems of the Dream of Darkness videogame"
       },
-      "job1_title": {
+      "job3_title": {
          "es": "Obra y Servicio para Legends of Learning",
          "en": "Direct Contract with Legends of Learning"
       },
-      "job1_date": {
+      "job3_date": {
          "es": "2023",
          "en": "2023"
       },
-      "job1_location": {
+      "job3_location": {
          "es": "Washington, Estados Unidos (Remoto)",
          "en": "Washington, United States of America (Remote)"
       },
-      "job1_work0": {
+      "job3_work0": {
          "es": "Diseño y programación del juego Super Molecule Mixer para la plataforma Legends of Learning",
          "en": "Design and coding of the game Super Molecule Mixer for the Legends of Learning platform"
       },
-      "job2_title": {
+      "job4_title": {
          "es": "Prácticas en Didactoons Games SL",
          "en": "Didactoons Games SL Intern"
       },
-      "job2_date": {
+      "job4_date": {
          "es": "2022",
          "en": "2022"
       },
-      "job2_location": {
+      "job4_location": {
          "es": "Alcalá de Henares, Madrid, España",
          "en": "Alcala de Henares, Madrid, Spain"
       },
-      "job2_work0": {
+      "job4_work0": {
          "es": "Diseño y programación del juego ExcavAge para la plataforma Legends of Learning",
          "en": "Design and coding of the game ExcavAge for the Legends of Learning platform"
       },
-      "job3_title": {
+      "job5_title": {
          "es": "Becario del Ayuntamiento de Fuenlabrada",
          "en": "Fuenlabrada's City Hall Intern"
       },
-      "job3_date": {
+      "job5_date": {
          "es": "2021",
          "en": "2021"
       },
-      "job3_location": {
+      "job5_location": {
          "es": "Fuenlabrada, Madrid, España",
          "en": "Fuenlabrada, Madrid, Spain"
       },
-      "job3_work0": {
+      "job5_work0": {
          "es": "Becario del Programa de Mejora de Recursos Informáticos del Sistema Educativo del Ayuntamiento de Fuenlabrada",
          "en": "Intern of the Program for the Improvement of Computer Resources of the Educational System of the Fuenlabrada City Council"
       },
-      "job3_work1": {
+      "job5_work1": {
          "es": "Actualización del hardware y del software del sistema informático del CEIP La Cañada",
          "en": "Hardware and software upgrade of the La Cañada School's computer system"
       },
@@ -172,20 +212,36 @@
          "en": "Education"
       }, 
       "study0_title": {
-         "es": "Grado en Diseño y Desarrollo de Videojuegos",
-         "en": "Game Design and Development Bachelor"
+         "es": "Máster en Informática Gráfica, Juegos y Realidad Virtual",
+         "en": "Computer Graphics, Games and Virtual Reality Master's Degree"
       },
       "study0_date": {
-         "es": "2018 - 2023",
-         "en": "2018 - 2023"
+         "es": "2024 - 2025",
+         "en": "2024 - 2025"
       },
       "study0_location": {
          "es": "Universidad Rey Juan Carlos, Madrid, España",
          "en": "Rey Juan Carlos University, Madrid, Spain"
       },
       "study0_work0": {
-         "es": "Actualmente he terminado con mis estudios y me encuentro a la espera de recibir mi título",
-         "en": "I have finished my studies and I am currently waiting to receive my college title"
+         "es": "Actualmente estoy trabajando en mi Trabajo Final de Máster",
+         "en": "I am currently working on my Master's Degree Final Project"
+      },
+      "study1_title": {
+         "es": "Grado en Diseño y Desarrollo de Videojuegos",
+         "en": "Game Design and Development Bachelor's Degree"
+      },
+      "study1_date": {
+         "es": "2018 - 2023",
+         "en": "2018 - 2023"
+      },
+      "study1_location": {
+         "es": "Universidad Rey Juan Carlos, Madrid, España",
+         "en": "Rey Juan Carlos University, Madrid, Spain"
+      },
+      "study1_work0": {
+         "es": "Actualmente he terminado con mis estudios y me encuentro en posicion de mi título universitario",
+         "en": "I have finished my studies and I am currently in possesion of my college title"
       },
       "portfolioText": {
          "es": "A continuación se muestran todos mis proyectos hasta la fecha y las labores que realicé en cada uno de ellos:",

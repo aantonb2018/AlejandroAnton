@@ -319,6 +319,22 @@ section {
   margin-bottom: 0;
 }
 
+.about-btn-cv {
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+.about-btn-cv:hover {
+    background-color: #0056c7;
+    color: white;
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
@@ -941,6 +957,23 @@ section {
   }
 }
 
+/*--------------------------------------------------------------
+# Video
+--------------------------------------------------------------*/
+.video-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.video-centered {
+  max-width: 100%;
+  max-height: 540px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/

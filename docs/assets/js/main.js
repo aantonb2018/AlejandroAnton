@@ -199,17 +199,21 @@
    * Portfolio details slider
    */
   new Swiper('.portfolio-details-slider', {
-    speed: 400,
-    loop: true,
-    autoplay: {
-      delay: 5000,
-      disableOnInteraction: false
-    },
-    pagination: {
-      el: '.swiper-pagination',
-      type: 'bullets',
-      clickable: true
-    }
+      speed: 400,
+      loop: true,
+      autoplay: false,
+      pagination: {
+        el: '.swiper-pagination',
+        type: 'bullets',
+        clickable: true
+      },
+      on: {
+        slideChange: function () {
+          // Pausar cualquier video dentro de los slides
+          const videos = document.querySelectorAll('.portfolio-details-slider video');
+          videos.forEach(v => v.pause());
+        }
+      }
   });
 
   /**

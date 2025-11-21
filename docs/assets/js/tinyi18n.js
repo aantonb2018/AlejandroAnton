@@ -31,6 +31,12 @@ let tinyi18n = {
 
 		document.documentElement.lang = language
 		tinyi18n._current_language = language
+
+		document.getElementById("lang-es").classList.remove("lang-active");
+		document.getElementById("lang-en").classList.remove("lang-active");
+
+		// Aplicar sombreado al seleccionado
+		document.getElementById("lang-" + language).classList.add("lang-active");
 	},
 
 	loadTranslations: function(filename) {

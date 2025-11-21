@@ -112,6 +112,10 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
+.lang-active {
+  filter: brightness(50%);  /* Sombrado */
+}
+
 #main {
   margin-left: 300px;
 }

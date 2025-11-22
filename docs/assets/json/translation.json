@@ -606,6 +606,10 @@
       "lingo_lk_Desc": {
          "es": "Lingokids es una aplicación de aprendizaje <b>Playlearning™</b> diseñada para niños de 2 a 8 años. Utiliza juegos, canciones y actividades interactivas para enseñar inglés y otras habilidades académicas y socioemocionales. Todo con la ayuda de sus personajes como <b>Lisa</b>, <b>Cowy</b> o <b>Baby Bot</b>.",
          "en": "Lingokids is a <b>Playlearning™</b> app designed for kids between 2 and 8 years old. It contains games, songs and interactive activities to teach English and many other academic and social skills. All thanks to its characters like <b>Lisa</b>, <b>Cowy</b> or <b>Baby Bot</b>."
+      },
+      "lingo_blippi_Desc": {
+         "es": "Colaboración con <b>Moonbug™</b> que trae las experiencias interactivas y juegos propios de Lingokids para enseñar inglés y otras habilidades académicas y socioemocionales. ¡Los niños podrán aprender y divertirse de la mano de <b>Blippi y sus amigos</b>!",
+         "en": "Collaboration with <b>Moonbug™</b> to bring interactive activities to teach English and many other academic and social skills. Kids will be able to have fun and learn alongisde <b>Blippi and his friends</b>!"
       }
    }
 }

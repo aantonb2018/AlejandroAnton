@@ -43,6 +43,19 @@
   <script>
     tinyi18n.loadTranslations('./assets/json/translation.json');
   </script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+    //Disney portfolio image pool
+    const totalImages = 1;
+
+    const randomIndex = Math.floor(Math.random() * totalImages);
+
+    const imagePath = `assets/img/portfolio/lingokids/disney/lingokids_disney_portfolio_${randomIndex}.png`;
+
+    document.getElementById("disney_portfolio_image").src = imagePath;
+    });
+  </script>
 </head>
 
 <body>
@@ -362,6 +375,7 @@
                 <li data-translatekey="job1_work1"></li>
               </ul>
             </div>
+            <!---
             <div id="proItem2" class="resume-item">
               <h4 data-translatekey="job2_title"></h4>
               <h5 data-translatekey="job2_date"></h5>
@@ -369,7 +383,7 @@
               <ul>
                 <li data-translatekey="job2_work0"></li>
               </ul>
-            </div>
+            </div>-->
             <div id="proItem3" class="resume-item">
               <h4 data-translatekey="job3_title"></h4>
               <h5 data-translatekey="job3_date"></h5>
@@ -386,6 +400,7 @@
                 <li data-translatekey="job4_work0"></li>
               </ul>
             </div>
+            <!--
             <div id="proItem5" class="resume-item">
               <h4 data-translatekey="job5_title"></h4>
               <h5 data-translatekey="job5_date"></h5>
@@ -394,7 +409,7 @@
                 <li data-translatekey="job5_work0"></li>
                 <li data-translatekey="job5_work1"></li>
               </ul>
-            </div>
+            </div>-->
           </div>
 
           <div class="col-lg-6" data-aos="fade-up">
@@ -448,8 +463,16 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-designer filter-programmer">
             <div class="portfolio-project">
+              <a href="portfolio-lingokids-disney.html">
+                <img id="disney_portfolio_image" class="img-fluid" alt="">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-designer filter-programmer">
+            <div class="portfolio-project">
               <a href="portfolio-lingokids-pocoyo.html">
-                <img src="assets/img/portfolio/lingokids_pocoyo_portfolio.png" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/lingokids/pocoyo/lingokids_pocoyo_portfolio.png" class="img-fluid" alt="">
               </a>
             </div>
           </div>
@@ -457,7 +480,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-designer filter-programmer">
             <div class="portfolio-project">
               <a href="portfolio-lingokids-lk.html">
-                <img src="assets/img/portfolio/lingokids_lk_portfolio.png" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/lingokids/lk/lingokids_lk_portfolio.png" class="img-fluid" alt="">
               </a>
             </div>
           </div>
@@ -465,7 +488,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-designer filter-programmer">
             <div class="portfolio-project">
               <a href="portfolio-lingokids-blippi.html">
-                <img src="assets/img/portfolio/lingokids_blippi_portfolio.png" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/lingokids/blippi/lingokids_blippi_portfolio.png" class="img-fluid" alt="">
               </a>
             </div>
           </div>

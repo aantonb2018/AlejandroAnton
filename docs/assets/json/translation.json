@@ -65,11 +65,11 @@
       },
       "textAbout3": {
          "es": "Gracias a mis estudios en el <b>Grado de Diseño y Desarrollo de Videojuegos</b> de la <b>URJC</b> soy capaz de trabajar en todas las áreas que conciernen al desarrollo de videojuegos, desde el diseño del juego en si mismo pasando por la creación de arte/assets y terminando con la implementación de las mecánicas y el desarrollo del juego como tal.",
-         "en": "Thanks to my studies at the URJC's Game Design and Development Bachelor I can defend myself in all areas of game development, from the game design itself going through the art/assets creation and implementing the mechanics and developing the game as a whole."
+         "en": "Thanks to my studies at the <b>URJC's Game Design and Development Bachelor</b> I can defend myself in all areas of game development, from the game design itself going through the art/assets creation and implementing the mechanics and developing the game as a whole."
       },
       "textAbout4": {
          "es": "Destacaría principalmente mis capacidades como <b>Game Designer</b>, ya sea a nivel de mecánicas, dinámicas o de niveles, y como programador. Es en cualquiera de estas dos áreas donde me gustaría poder trabajar y mejorar, ayudando a crear experiencias de juego nuevas y enriquecedoras para cualquier tipo de jugadores.",
-         "en": "I would remark my abilities as a Game Designer, no matter if it is about mechanics, dynamics or level design, as well as a programmer. I would want to work and develop myself in any of these two fields, helping to create new and enriching gaming experiences for any kind of player."
+         "en": "I would remark my abilities as a <b>Game Designer</b>, no matter if it is about mechanics, dynamics or level design, as well as a programmer. I would want to work and develop myself in any of these two fields, helping to create new and enriching gaming experiences for any kind of player."
       },
       "textAbout5": {
          "es": "Me gusta trabajar en equipo, aprender de los demás y, con suerte, poder enseñarles algo de vuelta. Se me da bien trabajar bajo presión, aunque prefiero mantener mis desarrollos con un amplio margen de maniobra. Y sobretodo disfruto de la experiencia creativa de diseñar y desarrollar videojuegos.",
@@ -610,6 +610,10 @@
       "lingo_blippi_Desc": {
          "es": "Colaboración con <b>Moonbug™</b> que trae las experiencias interactivas y juegos propios de Lingokids para enseñar inglés y otras habilidades académicas y socioemocionales. ¡Los niños podrán aprender y divertirse de la mano de <b>Blippi y sus amigos</b>!",
          "en": "Collaboration with <b>Moonbug™</b> to bring interactive activities to teach English and many other academic and social skills. Kids will be able to have fun and learn alongisde <b>Blippi and his friends</b>!"
+      },
+      "lingo_pocoyo_Desc": {
+         "es": "Colaboración con <b>Animaj™</b> que trae las experiencias interactivas y juegos propios de Lingokids para enseñar inglés y otras habilidades académicas y socioemocionales. ¡Los niños podrán aprender y divertirse de la mano de <b>Pocoyo y sus amigos</b>!",
+         "en": "Collaboration with <b>Animaj™</b> to bring interactive activities to teach English and many other academic and social skills. Kids will be able to have fun and learn alongisde <b>Pocoyo and his friends</b>!"
       }
    }
 }

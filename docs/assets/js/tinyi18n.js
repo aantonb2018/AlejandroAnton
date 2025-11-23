@@ -35,8 +35,12 @@ let tinyi18n = {
 		document.getElementById("lang-es").classList.remove("lang-active");
 		document.getElementById("lang-en").classList.remove("lang-active");
 
+		document.getElementById("lang-es").classList.add("lang-inactive");
+		document.getElementById("lang-en").classList.add("lang-inactive");
+
 		// Aplicar sombreado al seleccionado
 		document.getElementById("lang-" + language).classList.add("lang-active");
+		document.getElementById("lang-" + language).classList.remove("lang-inactive");
 	},
 
 	loadTranslations: function(filename) {
